@@ -1,4 +1,6 @@
-.backup
-*.log
-*.lock
-*.toml
+# Ignore everything
+*
+
+# But not these files...
+!.gitignore
+!main.py
